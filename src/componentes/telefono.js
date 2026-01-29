@@ -1,0 +1,1 @@
+export const TELEFONO_CONTACTO = "+52 5531984277";
