@@ -4,7 +4,7 @@ export default function Historia() {
       <div className="container">
         <h2 className="section-title">Tu historia también merece sanación</h2>
         <p className="section-subtitle">
-          Soy Maestra Aura, guía espiritual con años de experiencia en rituales ancestrales
+          Soy Maestro lucio, guía espiritual con años de experiencia en rituales ancestrales
           y técnicas de armonización energética. Mi misión es acompañarte con honestidad,
           cariño y claridad para que recuperes tu paz interior.
         </p>
